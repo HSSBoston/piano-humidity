@@ -1,2 +1,4 @@
-# piano-humidity
-In-piano Humidity Tracker
+# In-piano Humidity Tracker
+
+
+<img src="images/raspi-on-piano.jpg" width="400" />
